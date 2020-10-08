@@ -1,4 +1,4 @@
-declare module 'react-native-switch-full-custom"' {
+declare module 'react-native-switch-full-custom' {
   import { Component, ReactNode } from 'react';
   import { StyleProp, TextStyle, ViewStyle } from 'react-native';
 
