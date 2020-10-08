@@ -1,0 +1,33 @@
+{
+  "name": "react-native-switch-full-custom",
+  "version": "1.8.0",
+  "description": "Customisable switch component for react-native",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "shapes",
+    "android",
+    "ios",
+    "mobile",
+    "switch",
+    "customisable",
+    "react-native-web"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Diegoalexandre/react-native-switch-full-custom.git"
+  },
+  "author": "Diego Alexandre <diegoalexandryy@gmail.com>",
+  "peerDependencies": {
+    "react-native": ">=0.29"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
